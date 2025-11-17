@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Pedro Lucas
 
-<!--
-**pedrodevroot/pedrodevroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor que gosta de criar soluções práticas e trabalhar com Back-end
+🚀 Experiência com Python, JavaScript, Flask, Docker e Git
+🔥 Apaixonado por tecnologia, automação e boas práticas de código
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas 
+- **Back-end:** Python, Flask, NodeJS
+- **Front-end:** JavaScript, HTML, CSS, Astro
+- **DevOps:** Docker, Git, GitHub  
+- **Cloud:** AWS (EC2, S3)  
+- **Banco de Dados:** MySQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Projetos em Destaque
+- **Janosys API** – Desenvolver uma página que permita visualizar e interpretar os dados do Censo de 2022 referentes à cidade de São José dos Campos.  
+- **Anonymous Page** – Página simples e responsiva sobre a comunidade anonymus.
+- **População por Região** – Análise de dados com Python e visualização de regiões.  
+
+---
+
+## 📞 Contato
+- **LinkedIn:** https://www.linkedin.com/in/pedro-lucas-76870237b/  
+- **Email:** pedrodev.root@gmail.com  
+
+---
