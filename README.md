@@ -10,7 +10,7 @@
 - **Front-end:** JavaScript, HTML, CSS, Astro
 - **DevOps:** Docker, Git, GitHub  
 - **Cloud:** AWS (EC2, S3)  
-- **Banco de Dados:** MySQL, PostgreSQL
+- **Banco de Dados:** MySQL
 
 ---
 
