@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Pedro Lucas
 
 💻 Desenvolvedor que gosta de criar soluções práticas e trabalhar com Back-end
-🚀 Experiência com Python, JavaScript, Flask, Docker e Git
+🚀 Experiência com Python, JavaScript, Flask, Docker, MySQL e Git
 🔥 Apaixonado por tecnologia, automação e boas práticas de código
 ---
 
