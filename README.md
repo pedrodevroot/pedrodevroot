@@ -7,11 +7,11 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Back-end:** Python, Flask, Node.js, TypeScript
-- **Front-end:** JavaScript, HTML, CSS, React
+- **Back-end:** Java SpringBoot, Python, Node.js, TypeScript
+- **Front-end:** JavaScript, HTML, CSS, React, Tailwind
 - **DevOps:** Docker, Git, GitHub, GitLab
 - **Cloud:** AWS (EC2, S3)
-- **Database:** MySQL
+- **Database:** MySQL, postgresql, MongoDB, Redis
 
 ---
 
